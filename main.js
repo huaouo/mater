@@ -10,6 +10,7 @@ const mb = menubar({
   browserWindow: {
     width: 220,
     height: 206,
+    skipTaskbar: true,
     webPreferences: {
       nodeIntegration: true,
       enableRemoteModule: true
