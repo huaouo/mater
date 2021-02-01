@@ -22,6 +22,7 @@
   height: 100vh;
   margin: 0;
   grid-template-rows: 41px 58px 6px 36px 64px;
+  user-select: none;
 }
 
 .ui-bg {
